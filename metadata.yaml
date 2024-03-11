@@ -1,0 +1,61 @@
+_repo: The-house-at-Pooh-Corner_73011
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Shepard, Ernest H. (Ernest Howard)
+    aliases:
+    - Shepard, Ernest Howard
+    - Shepard, E. H. (Ernest Howard)
+    - Sheppard, E. H. (Ernest Howard)
+    birthdate: 1879
+    deathdate: 1976
+    gutenberg_agent_id: '54114'
+    url: http://www.gutenberg.org/2009/agents/54114
+    wikipedia: https://en.wikipedia.org/wiki/E._H._Shepard
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Milne, Alan Alexander
+    - Miln, Alen Aleksander
+    - Milne, A.A.
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: https://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_issued: '2024-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73011'
+language: en
+pgterms:marc905: 20220711135012milne
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bE.P. Dutton & Co., Inc., $c1928, reprint 1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Toys -- Juvenile fiction'
+- !lcsh 'Teddy bears -- Juvenile fiction'
+- !lcsh 'Winnie-the-Pooh (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Piglet (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Eeyore (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Christopher Robin (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: In which a house is built at Pooh Corner for Eeyore -- In which Tigger
+  comes to the forest and has breakfast -- In which a search is organized, and Piglet
+  nearly meets the Heffalump again -- In which it is shown that Tiggers don't climb
+  trees -- In which Rabbit has a busy day, and we learn what Christopher Robin does
+  in the mornings -- In which Pooh invents a new game and Eeyore joins in -- In which
+  Tigger is unbounced -- In which Piglet does a very grand thing -- In which Eeyore
+  finds the Wolery and Owl moves into it -- In which Christopher Robin and Pooh come
+  to an enchanted place, and we leave them there.
+title: The house at Pooh Corner
+url: http://www.gutenberg.org/ebooks/73011
